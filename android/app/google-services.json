@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "306462508404",
+    "project_id": "alluredesignsphoneauth",
+    "storage_bucket": "alluredesignsphoneauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306462508404:android:2d391814c2380d2b88d821",
+        "android_client_info": {
+          "package_name": "com.fourCCompanY.alluredesigns"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306462508404-l7v1h7jcfibgjjmuas8n3lis4akepvvj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fourCCompanY.alluredesigns",
+            "certificate_hash": "51557cfb386c3bff51218fc437ff378ce9926979"
+          }
+        },
+        {
+          "client_id": "306462508404-g1be996fgi83rj6q3hqekicnpop8c37q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAifxOfonrn67JZQcHKT68CcXG4buIU0I8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306462508404-g1be996fgi83rj6q3hqekicnpop8c37q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
